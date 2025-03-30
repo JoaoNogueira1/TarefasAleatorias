@@ -27,7 +27,7 @@ public class Binario {
 		--i;
 		
 		System.out.println("Soma dos dois número binarios: ");
-		while(i >= 10) {
+		while(i >= 0) {
 			System.out.println(sum[i++]);
 		}
 		System.out.println("\n");
